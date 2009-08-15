@@ -1,3 +1,4 @@
+tmp/
 *.tmproj
 *.class
 */**/*.class
