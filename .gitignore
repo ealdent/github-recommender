@@ -1,3 +1,5 @@
+*.mallet
+tmp.tar.bz2
 tmp/
 *.tmproj
 *.class
